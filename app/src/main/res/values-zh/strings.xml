@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">机智勇敢十三班</string>
+
+    <string name="refresh">刷新</string>
+    <string name="update">更新信息</string>
+    <string name="name">姓名</string>
+    <string name="org">学校/公司</string>
+    <string name="cancel">取消</string>
+    <string name="confirm">确认</string>
+</resources>

@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">ClassThirteen</string>
+
+    <string name="refresh">Refresh</string>
+    <string name="update">Update</string>
+    <string name="name">Name</string>
+    <string name="org">Organization</string>
+    <string name="cancel">Cancel</string>
+    <string name="confirm">Confirm</string>
+</resources>
